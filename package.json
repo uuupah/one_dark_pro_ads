@@ -1,5 +1,5 @@
 {
-    "name": "one_dark_pro_ads",
+    "name": "one-dark-pro-ads",
     "displayName": "One Dark Pro for ADS",
     "description": "one dark pro theme for azure data studio",
     "publisher": "uuupah",
@@ -26,5 +26,5 @@
     },
     "bugs": {
         "url": "https://github.com/uuupah/one_dark_pro_ads/issues"
-    },
+    }
 }
