@@ -1,0 +1,30 @@
+{
+    "name": "one_dark_pro_ads",
+    "displayName": "One Dark Pro for ADS",
+    "description": "one dark pro theme for azure data studio",
+    "publisher": "uuupah",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.39.0",
+        "azdata": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark Pro-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/uuupah/one_dark_pro_ads.git"
+    },
+    "bugs": {
+        "url": "https://github.com/uuupah/one_dark_pro_ads/issues"
+    },
+}
