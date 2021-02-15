@@ -3,7 +3,7 @@
     "displayName": "One Dark Pro for ADS",
     "description": "one dark pro theme for azure data studio",
     "publisher": "uuupah",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.39.0",
         "azdata": "*"
